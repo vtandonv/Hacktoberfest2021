@@ -29,6 +29,7 @@
 | Elfin Sanjaya | [elfinsanjaya12](https://github.com/elfinsanjaya12) |
 | Manju | [mthakur7](https://github.com/mthakur7)|
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
+| Syofyan Zuhad | [syofyanzuhad](https://github.com/syofyanzuhad) |
 
 
 
