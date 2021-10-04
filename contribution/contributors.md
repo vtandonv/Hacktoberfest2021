@@ -28,12 +28,4 @@
 | Manju | [mthakur7](https://github.com/mthakur7)|
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
 | Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
-
-
-
-
-
-
-
-
-
+| Mayukh Chatterjee | [mayukh00](https://github.com/mayukh00) |
