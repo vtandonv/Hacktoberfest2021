@@ -15,8 +15,16 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
 
   ---
   
+  # Bagaimana Cara Mendaftar Event Hacktoberfest?
+  - Buka Link Website [hacktoberfest.digitalocean.com](hacktoberfest.digitalocean.com/)
+  - Klik Start Hacking
+  - Klik Signup With Github
+  - Centang Informasi Dengan Informasi Dirimu
+  - Mulai Lah Berkontribusi...  
   
-# Bagaimana Cara Berkontribusi ?
+    ---
+  
+# Bagaimana Cara Berkontribusi Di Repository Ini?
 - Buka Folder 'contribution' di repository 
 - Edit File contributors.md
 - Lalu Silahkan Isi Data Kalian
