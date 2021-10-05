@@ -1,4 +1,8 @@
-![](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
+<p>
+<a href="https://hacktoberfest.digitalocean.com/">
+<img width=100% src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"></a>
+</p>
+
 # [Hacktoberfest](https://faiznurullah.github.io/Hacktoberfest2021/)
 
 # Apa itu Hacktoberfest 2021 ? 
@@ -28,9 +32,8 @@ Jika Anda belum pernah berkontribusi ke open source sebelumnya, ini adalah waktu
 
 ---
 # Kontributor List
-
-<a href="https://github.com/hctnm1/Hacktoberfest2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Faiznurullah/Hacktoberfest2021" />
+<a href="https://github.com/faiznurullah/hacktoberfest2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=faiznurullah/hacktoberfest2021" />
 </a>
   
   ---
