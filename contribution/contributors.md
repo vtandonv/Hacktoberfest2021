@@ -39,22 +39,4 @@
 | MaheshaKandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi) |
 | Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Md Udoy Hasan Orko | [udoyhasan](https://github.com/udoyhasan) |
