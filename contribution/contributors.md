@@ -13,6 +13,7 @@
 | Ar Rasyid | [rasyidzkun](https://github.com/rasyidzkun) |
 | Rzhasibuan | [Rzhasibuan](https://github.com/rzhasibuan) |
 | Lukman | [Lukman350](https://github.com/Lukman350) |
+| Hariket | [hariketsheth](https://github.com/hariketsheth) |
 | Haikel | [haikelz](https://github.com/haikelz) |
 | Adeputra | [armadani](https://github.com/armadani) |
 | Wahyu | [bywahjoe](https://github.com/bywahjoe) |
