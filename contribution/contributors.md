@@ -32,6 +32,7 @@
 | Manju | [mthakur7](https://github.com/mthakur7)|
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
 | Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
+| Keinisha Joshi | [keinisha](https://github.com/keinisha) |
 | Mayukh Chatterjee | [mayukh00](https://github.com/mayukh00) |
 | MaheshaKandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi) |
 | Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
