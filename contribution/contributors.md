@@ -21,8 +21,10 @@
 | Ayatullah Naufal | [ayatullahnaufal](https://github.com/ayatullahnaufal) |
 | Muhamad Ristiyanto | [Gimenz](https://github.com/Gimenz) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
-| hiko | [xhiko1](https://github.com/xhiko1) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
+| Ayoma | [A-Chathumini](https://github.com/A-Chathumini) |
+| Dwi Dhanis | [dwidhanis] (https://github.com/dwidhanis/) |
+| Ayobami | [ayobami11] (https://github.com/ayobami11) |
 | Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
 | Agung Ardiyanto | [agungd3v](https://github.com/agungd3v) |
 | Faldi R | [fadilkun45](https://github.com/fadilkun45) |
@@ -30,6 +32,20 @@
 | Manju | [mthakur7](https://github.com/mthakur7)|
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
 | Mayank Sharma | [Mayank-Sharma-1791](https://github.com/Mayank-Sharma-1791) |
+| Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
+| Keinisha Joshi | [keinisha](https://github.com/keinisha) |
+| Mayukh Chatterjee | [mayukh00](https://github.com/mayukh00) |
+| MaheshaKandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi) |
+| Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
+| Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
+
+
+
+
+
+
+
+
 
 
 
