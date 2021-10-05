@@ -33,7 +33,7 @@
 | Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
 | Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
-
+| Akmal Fauzi | [akmalfauzi](https://github.com/akmalfauzi) |
 
 
 
