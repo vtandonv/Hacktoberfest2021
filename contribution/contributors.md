@@ -22,6 +22,7 @@
 | Muhamad Ristiyanto | [Gimenz](https://github.com/Gimenz) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
+| Ayoma | [A-Chathumini](https://github.com/A-Chathumini) |
 | Dwi Dhanis | [dwidhanis] (https://github.com/dwidhanis/) |
 | Ayobami | [ayobami11] (https://github.com/ayobami11) |
 | Shravya | [ShravyaMallya](https://github.com/ShravyaMallya) |
@@ -34,6 +35,7 @@
 | MaheshaKandambi | [MaheshaKandambi](https://github.com/MaheshaKandambi) |
 | Rikky Arisendi | [rikkyarisendi](https://github.com/rikkyarisendi) |
 | Siddhant Pandey | [siddhant094](https://github.com/siddhant094) |
+
 
 
 
